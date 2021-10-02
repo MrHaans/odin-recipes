@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(243, 233, 223);
+}
+
+.header h1 {
+    margin: 50px 650px 50px 650px;
+    font-family: Tahoma, sans-serif, Verdana;
+    font-size: 80px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 75px;
+    margin-left: 650px;
+    margin-right: 650px;
+}
+
+.header .hero p {
+    text-align: center;
+    margin-bottom: 35px;
+    font-family: Papyrus;
+    font-size: 20px;
+}
+
+.recipe-list ul li{
+    text-align: center;
+    list-style-type: none;
+    padding: 20px;
+}
+
+.recipe-list ul li a {
+    font-family: 'Lucida Handwriting';
+    text-decoration: none;
+    color: rgb(182, 123, 83);
+}
+
+.recipe-list ul li a:hover {
+    color: black;
+}
+
+hr {
+    width: 25%;
+    margin: auto;
+    border-style: dashed;
+}
+
+.pagination p {
+    text-align: center;
+    font-family: Papyrus;
+    font-size: 20px;
+    color: rgba(124, 77, 55, 0.966);
+    margin-top: 45px;
+}
